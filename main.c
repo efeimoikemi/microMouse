@@ -1,7 +1,8 @@
 ///
 /// @file       main.c
-/// @author     Kyeong Soo (Joseph) Kim <k.s.kim@swansea.ac.uk>
-/// @date       2012-02-21
+/// @authors    Kyeong Soo (Joseph) Kim <k.s.kim@swansea.ac.uk>
+///             Agangan Efe Margaret <hipsy4love@yahoo.com>
+/// @date       2014-02-04
 ///
 /// @brief      Main part of the micro mouse program
 ///
